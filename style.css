@@ -5,6 +5,13 @@ body {
     font-size: 2em;
     text-align: center;
   }
+  .inline{
+      float: left;
+      text-align: center
+  }
+  p {
+    font-size: 20px;
+  }
   canvas {
     border: solid .1em #fff;
     height: 90vh;
